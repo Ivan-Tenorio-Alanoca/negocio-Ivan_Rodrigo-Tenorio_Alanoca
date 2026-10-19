@@ -1,0 +1,22 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 40px;
+}
+
+.buscador{
+    padding: 8px;
+    font-size: 16px;
+}
+
+.buscador input{
+    padding: 8px;
+    font-size: 16px;
+}
+
+.buscador button{
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
